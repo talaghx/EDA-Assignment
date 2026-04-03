@@ -1,0 +1,21 @@
+Dataset Description
+
+Dataset Name: Airbnb Listings Dataset
+
+Source:
+The dataset was obtained from Kaggle:
+https://www.kaggle.com/datasets/darkmatternet/airbnb-listings-nyc-london-paris-tokyo-and-more
+
+Number of Rows and Columns:
+(292802 rows , 20 columns )
+
+Features:
+- price: price of listing
+- room_type: type of room
+- neighbourhood_group: location
+- availability_365: availability
+- number_of_reviews: reviews count
+- last_review: last review date
+
+Purpose:
+The purpose of this dataset is to perform Exploratory Data Analysis (EDA) to understand patterns and trends in Airbnb listings.
